@@ -13,7 +13,7 @@ We're looking forward to helping you tell your story. Before you begin writing, 
 
 ### The Easy Way
 
-Simply [open the Prose editor]({{ site.prose_server }}http://prose.io#github/government.github.com/new/gh-pages/_posts{: data-proofer-ignore="true"}) and start typing. It's really that easy. When you're done, hit submit, and track your story's progress as it's added.
+Simply [open the Prose editor](http://prose.io#github/government.github.com/new/gh-pages/_posts) and start typing. It's really that easy. When you're done, hit submit, and track your story's progress as it's added.
 
 ### The Manual Way
 
